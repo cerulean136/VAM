@@ -1,6 +1,6 @@
-# VISM
+# VAM
 
-***VISM: Vectorized Instance-wise Semantic Segmentation Model for Remote Sensing Imagery***
+***VAM: Vectorized Anything Model for Remote Sensing Imagery Segmentation***
 
 
 We will release our code after the paper is accepted.
